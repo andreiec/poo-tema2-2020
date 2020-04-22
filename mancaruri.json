@@ -1,0 +1,134 @@
+{
+    "principal1": {
+        "nume": "Frigarui de Pui",
+        "tip": 1,
+        "pret": 16,
+        "gramaj": 350
+    },
+
+    "principal2": {
+        "nume": "Tocana de Pui",
+        "tip": 1,
+        "pret": 12,
+        "gramaj": 300
+    },
+
+    "principal3": {
+        "nume": "Chateaubriand",
+        "tip": 1,
+        "pret": 18,
+        "gramaj": 400
+    },
+
+    "garnitura1": {
+        "nume": "Cartofi Prajiti",
+        "tip": 2,
+        "pret": 6,
+        "gramaj": 250
+    },
+
+    "garnitura2": {
+        "nume": "Cartofi Piure",
+        "tip": 2,
+        "pret": 7,
+        "gramaj": 200
+    },
+
+    "garnitura3": {
+        "nume": "Orez Sarbesc",
+        "tip": 2,
+        "pret": 5,
+        "gramaj": 150
+    },
+
+    "ciorba1": {
+        "nume": "Ciorba de Burta",
+        "tip": 3,
+        "pret": 13,
+        "gramaj": 400
+    },
+
+    "ciorba2": {
+        "nume": "Ciorba de Ciuperci",
+        "tip": 3,
+        "pret": 14,
+        "gramaj": 400
+    },
+
+    "ciorba3": {
+        "nume": "Ciorba de Cartofi",
+        "tip": 3,
+        "pret": 10,
+        "gramaj": 400
+    },
+
+    "ciorba4": {
+        "nume": "Ciorba de Legume",
+        "tip": 3,
+        "pret": 12,
+        "gramaj": 400
+    },
+
+    "desert1": {
+        "nume": "Inghetata",
+        "tip": 4,
+        "pret": 3,
+        "gramaj": 50
+    },
+
+    "desert4": {
+        "nume": "Tort Krantz",
+        "tip": 4,
+        "pret": 12,
+        "gramaj": 300
+    },
+
+    "bautura1": {
+        "nume": "Bordeaux din 1996",
+        "tip": 5,
+        "pret": 32,
+        "gramaj": 600
+    },
+
+    "bautura2": {
+        "nume": "Castel Bolovanu 2004",
+        "tip": 5,
+        "pret": 30,
+        "gramaj": 550
+    },
+
+    "bautura3": {
+        "nume": "Bere fara alcool",
+        "tip": 5,
+        "pret": 7,
+        "gramaj": 400
+    },
+
+    "bautura4": {
+        "nume": "Bere cu alcool",
+        "tip": 5,
+        "pret": 7,
+        "gramaj": 400
+    },
+
+    "bautura5": {
+        "nume": "Apa plata",
+        "tip": 5,
+        "pret": 5,
+        "gramaj": 350
+    },
+
+    "bautura6": {
+        "nume": "Vin varsat alb",
+        "tip": 5,
+        "pret": 8,
+        "gramaj": 100
+    },
+
+    "bautura7": {
+        "nume": "Vin varsat rosu",
+        "tip": 5,
+        "pret": 8,
+        "gramaj": 100
+    }
+}
